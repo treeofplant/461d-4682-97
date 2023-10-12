@@ -8,7 +8,7 @@ mt.__namecall = newcclosure(function(self, ...)
     local method = getnamecallmethod()
     local args = {...}
 
-    if method == "DeleteTimeout" then
+    if method == "deleteTimeout" then
         return true
     end
     return namecall(self, ...)
